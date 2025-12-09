@@ -1,4 +1,3 @@
-# MySQL-Basics-Beginner-Friendly-Learning-Repository
 # 📚 MySQL Basics – Beginner Friendly Learning Repository  
 
 This repository contains my learning notes, SQL examples and explanations from my **MySQL Basics** practice. It includes core database concepts, SQL commands, constraints, filtering, and aggregate functions used in data analytics and application development.  
